@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hello</pattern>
+    <template>hi there !! my name is Mejury and i am here to guide  you through either of the following 
+       
+       </template>
+    
+    
+  </category>
+</aiml>
